@@ -1,6 +1,7 @@
 package stepDefinition;
 
 import org.testng.Assert;
+import org.testng.annotations.BeforeSuite;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
